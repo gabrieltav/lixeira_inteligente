@@ -8,7 +8,7 @@
 - Arduíno
 
 ### Objetivo
-- Este trabalho tem como principal objetivo apresentar o processo de automatização de uma lixeira utilizando Arduino e componentes eletrônicos, visando a aplicação para o público portador de necessidades especiais (deficiências físicas e/ou doenças crônicas)
+- Este trabalho tem como principal objetivo apresentar o processo de automatização de uma lixeira utilizando Arduino e componentes eletrônicos, visando a aplicação para o público portador de necessidades especiais (deficiências físicas e/ou doenças crônicas), ou até mesmo facilitar a vida de muitas pessoas tornando o processo de colocar o lixo na lixeira mais prático.
 
 ### Problema
 - Para quem vive com doenças crônicas, seja esclerose múltipla, artrite, entre outras, a redução da mobilidade física pode criar bastantes obstáculos no que toca a simples tarefas diárias em casa.
